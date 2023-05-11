@@ -2,3 +2,5 @@ name: PrivateVault
 version: '${project.version}'
 main: org.main.privatevault.PrivateVault
 api-version: 1.19
+commans:
+  vault:
